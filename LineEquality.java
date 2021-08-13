@@ -1,6 +1,6 @@
 public class LineEquality {
-	public static void main(String[] args) {
-	System.out.println("Welocme to line Comparison computation program");
+	public static void LineEqual() {
+	
 	int x1,x2,y1,y2;
 	x1=2;
 	y1=3;
